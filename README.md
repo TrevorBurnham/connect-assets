@@ -1,4 +1,4 @@
 connect-assets
 ==============
 
-A Rails-style asset pipeline for Node.js
+This project has a new home: https://github.com/adunkman/connect-assets
